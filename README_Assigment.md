@@ -21,10 +21,15 @@ This is a guideline on how to develope a software
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 
 Requiremts: Gather and document both user and system requirents
+
 Design: Involves creating  detailed design as well as user interface
+
 Implementation: Writing the code according to design
+
 Test: Test to ensure the software meets the quality and requirements
+
 Deployment: Release the software to end user
+
 Maintenance: Offer support such as updates, upgrades
 
 Agile vs. Waterfall Models:
@@ -45,15 +50,20 @@ Software Design Principles:
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 Modularity is the process of diving task into small units with different functions.
+
 It improves maintainability and scalability in that each modules can be tested independently for functionality, differnt teams can work on different modules and combined to form a unit.
 Testing in Software Engineering:
 
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
 
 Unit testing : Testing a unit software on its own
+
 Integration Testing: Is testing how the software integrates with other units
+
 System Testing: Is testing to check the functions of the whole system
+
 Acceptance testing: Acceptaance by the end user, whether it meets requirements and right quality.
+
 Testing is very important to check and fix any fuctional errors, confirms with quality standard and provides room for maintenance.
 
 Version Control Systems:
@@ -66,7 +76,9 @@ Examples: Local Version Control Systems : Storage is basically on a local disc
           Distributed Version Control Systems :contain multiple repositories
 
  They are important because they offer room for collaboration and tracking changes made to the source code.
+
 Source: https://www.geeksforgeeks.org/version-control-systems/
+
 Software Project Management:
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
